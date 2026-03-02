@@ -1,1 +1,0 @@
-import{_ as o,c as n,w as t,V as s,r,o as _,a,b as c,d as l}from"./index-CXKhzkp-.js";const i={__name:"Constraint",setup(p){return(u,d)=>{const e=r("router-view");return _(),n(s,null,{default:t(()=>[a(c,null,{default:t(()=>[a(l,{fluid:"",class:"constraint-container"},{default:t(()=>[a(e)]),_:1})]),_:1})]),_:1})}}},m=o(i,[["__scopeId","data-v-59fe4133"]]);export{m as default};
